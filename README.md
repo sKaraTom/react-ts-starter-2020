@@ -1,3 +1,9 @@
+## Meteomixx
+small app to learn React.
+Weather app fetched with OpenWeather API.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
